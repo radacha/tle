@@ -54,9 +54,9 @@ All Matlab code written by Miloš Radovanović, with the help of (pseudo) code b
 
 ## Data sets
 
-Real data sets are available [here](https://perun.pmf.uns.ac.rs/radovanovic/tle/id-tle-real-data.zip) (~490MB).
+Real data sets are available [here](https://perun.pmf.uns.ac.rs/radovanovic/tle/id-tle-real-data.zip) (~490MB). Note: unzip the data sets to data/real/ and ignore the subdirectory structure from the archive.
 
-Synthetic data sets from the "m-family" are available [here](https://perun.pmf.uns.ac.rs/radovanovic/tle/id-tle-synth-m10000-data.zip) (~120MB).
+Synthetic data sets from the "m-family" are available [here](https://perun.pmf.uns.ac.rs/radovanovic/tle/id-tle-synth-m10000-data.zip) (~120MB). Note: unzip the data sets to data/m10000/ and ignore the subdirectory structure from the archive.
 
 ## Contact
 
