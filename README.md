@@ -2,7 +2,7 @@
 
 Welcome to the collection of Matlab scripts implementing intrinsic dimensionality (ID) estimators and experiments described in the paper:
 
-Laurent Amsaleg, Oussama Chelly, Michael E. Houle, Ken-ichi Kawarabayashi, Miloš Radovanović and Weeris Treeratanajaru. Intrinsic dimensionality estimation within tight localities. Submitted, 2022.
+Laurent Amsaleg, Oussama Chelly, Michael E. Houle, Ken-ichi Kawarabayashi, Miloš Radovanović and Weeris Treeratanajaru. Intrinsic dimensionality estimation within tight localities: A theoretical and experimental analysis. Submitted, 2022.
 
 An older version of the collection associated with the conference version of the paper is available [here](https://perun.pmf.uns.ac.rs/radovanovic/tle/).
 
