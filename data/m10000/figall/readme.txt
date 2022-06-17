@@ -1,1 +1,1 @@
-Directory for storing generated figures.
+Directory for storing generated figures
