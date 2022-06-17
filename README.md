@@ -6,7 +6,7 @@ Laurent Amsaleg, Oussama Chelly, Michael E. Houle, Ken-ichi Kawarabayashi, Milo�
 
 An older version of the collection associated with the conference version of the paper is available [here](https://perun.pmf.uns.ac.rs/radovanovic/tle/).
 
-## Quick description of the scripts
+## Quick Description of the Scripts
 
 __id*.m:__
 Implementations of various ID estimators.
@@ -52,7 +52,7 @@ Matlab executable compiled for 64-bit Windows from matlab\GetDim.cpp by Matthias
 
 All Matlab code written by Miloš Radovanović, with the help of (pseudo) code by Oussama Chelly and Michael E. Houle.
 
-## Data sets
+## Data Sets
 
 Real data sets are available [here](https://perun.pmf.uns.ac.rs/radovanovic/tle/id-tle-real-data.zip) (~490MB). Note: unzip the data sets to data/real/ and ignore the subdirectory structure from the archive.
 
@@ -62,7 +62,7 @@ Synthetic data sets from the "m-family" are available [here](https://perun.pmf.u
 
 Questions? Comments? Please write to Miloš Radovanović: <radacha@dmi.uns.ac.rs>
 
-## Licensing information
+## Licensing Information
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License: http://creativecommons.org/licenses/by-sa/4.0/
 
